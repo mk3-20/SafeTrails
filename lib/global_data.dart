@@ -105,5 +105,3 @@ class GoogleMapHelper{
 
 }
 
-
-// Google Maps API KEY: AIzaSyBQatGCJ6IyglQ-vN49cvaFKTudsW9i_xQ
