@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "411710465996",
+    "project_id": "roadsafety-app-69dbc",
+    "storage_bucket": "roadsafety-app-69dbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411710465996:android:bbcf01e0e7ff8b0a869f69",
+        "android_client_info": {
+          "package_name": "com.pickus.road_accident_safety_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8u-jdYStxqhFO5rdVHHtlFiwKFz1y9jk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
